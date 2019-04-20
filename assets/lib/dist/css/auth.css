@@ -1,0 +1,68 @@
+.login-box.create-user{
+	width: 420px;
+	margin: 2% auto;
+}
+.login-box.show-account{
+	width: 100%;
+	padding: 20px;
+	margin: 2% auto;
+}
+.login-box.edit-account{
+	width: 420px;
+	margin: 2% auto;
+}
+.login-box .login-box-body h1{
+	text-align: center;
+}
+.login-box .login-box-body input[type="submit"]{
+	background: #3c8dbc;
+	width: 100%;
+	padding: 10px;
+	font-size:20px;
+}
+#auth-index span a{
+	color: white;
+}
+#auth-active span a{
+	color: white;
+}
+#auth-active span{
+	width: 82px;
+}
+#auth-edit span{
+	background-color: #f0ad4e;
+    border-color: #eea236;
+}
+#auth-edit span a{
+	color: white;
+}
+#auth-edit span:hover{
+	background-color: #ec971f;
+}
+#auth-edit span i{
+	color: white;
+}
+#auth-edit-group span{
+	background-color: #f0ad4e;
+    border-color: #eea236;
+    margin-bottom: 2px;
+}
+#auth-edit-group span a{
+	color: white;
+}
+#auth-edit-group span:hover{
+	background-color: #ec971f;
+}
+#auth-edit-group span i{
+	color: white;
+}
+#back-admin{
+	text-align: center;
+	padding: 5px;
+	border-radius: 3px;
+	margin: auto;
+	text-decoration: underline;
+	padding-top:30px;
+	font-size:20px;
+
+}
